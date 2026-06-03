@@ -545,6 +545,26 @@ h3 {
   color: #d1fae5;
 }
 
+.contact-phone {
+  margin: 16px 0 8px;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.contact-phone a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+.cta-note {
+  max-width: 620px;
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
 .cta .button.secondary {
   color: #ffffff;
   background: transparent;
