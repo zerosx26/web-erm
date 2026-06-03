@@ -9,14 +9,17 @@ const WHATSAPP_NUMBER = "6283114869650";
 const WHATSAPP_MESSAGE =
   "Halo, saya ingin demo 15 menit ERM Offline untuk praktik. Jenis praktik saya: [isi dokter/bidan/dokter gigi/klinik]. Jumlah perangkat: [isi]. Saat ini pencatatan pakai: [buku/Excel/aplikasi lain].";
 
-const whatsappUrl = WHATSAPP_NUMBER
-  ? `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`
-  : "#kontak";
-
 whatsappLinks.forEach((link) => {
+  const message = link.dataset.whatsappMessage || WHATSAPP_MESSAGE;
+  const whatsappUrl = WHATSAPP_NUMBER
+    ? `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`
+    : "#kontak";
+
   link.setAttribute("href", whatsappUrl);
   if (!WHATSAPP_NUMBER) {
     link.setAttribute("aria-label", "Minta demo ERM Offline. Nomor WhatsApp belum dipasang.");
+  } else {
+    link.setAttribute("aria-label", "Hubungi WhatsApp ERM Offline untuk demo, paket, pembayaran, dan aktivasi.");
   }
 });
 

@@ -12,10 +12,10 @@ Static landing page publik untuk produk **ERM Offline**.
 
 ## Aktivasi WhatsApp CTA
 
-Edit `script.js`, lalu isi:
+CTA WhatsApp saat ini memakai nomor:
 
 ```js
-const WHATSAPP_NUMBER = "628xxxxxxxxxx";
+const WHATSAPP_NUMBER = "6283114869650";
 ```
 
 Gunakan format internasional tanpa `+`, spasi, atau tanda baca.
@@ -25,7 +25,10 @@ Gunakan format internasional tanpa `+`, spasi, atau tanda baca.
 - `sales/penawaran-erm-offline.md` untuk dikirim setelah calon pembeli tertarik.
 - `sales/demo-15-menit-checklist.md` untuk alur demo.
 - `sales/script-whatsapp.md` untuk chat awal dan follow-up.
-- `sales/lead-tracker.csv` untuk mencatat 10-20 calon pengguna pertama.
+- `sales/alur-pembelian.md` untuk SOP pembelian, pembayaran, delivery, dan aktivasi.
+- `sales/template-konfirmasi-pembayaran.md` untuk instruksi transfer/QRIS dan validasi pembayaran.
+- `sales/template-pengiriman-installer.md` untuk pengiriman installer privat, checksum, dan aktivasi.
+- `sales/lead-tracker.csv` untuk mencatat lead, pembayaran, installer, fingerprint perangkat, dan status aktivasi.
 
 ## Deploy GitHub Pages
 
@@ -37,6 +40,7 @@ Gunakan format internasional tanpa `+`, spasi, atau tanda baca.
 
 ## Catatan
 
-- CTA WhatsApp masih placeholder dan perlu diganti saat nomor sales final tersedia.
+- Installer tidak disediakan sebagai download publik di website.
+- Pembayaran awal memakai transfer bank/QRIS manual melalui WhatsApp.
 - Jangan masukkan source Flutter, license generator, secret, database, atau dokumen internal ke repo ini.
 - Klaim cloud, Android companion, dan SATUSEHAT hanya ditampilkan sebagai roadmap.
