@@ -5,7 +5,7 @@ const galleryButtons = document.querySelectorAll("[data-shot]");
 const galleryImage = document.querySelector("[data-gallery-shot]");
 const whatsappLinks = document.querySelectorAll(".js-whatsapp-link");
 
-const WHATSAPP_NUMBER = "";
+const WHATSAPP_NUMBER = "6283114869650";
 const WHATSAPP_MESSAGE =
   "Halo, saya ingin demo 15 menit ERM Offline untuk praktik. Jenis praktik saya: [isi dokter/bidan/dokter gigi/klinik]. Jumlah perangkat: [isi]. Saat ini pencatatan pakai: [buku/Excel/aplikasi lain].";
 
