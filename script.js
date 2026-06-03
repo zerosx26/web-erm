@@ -7,7 +7,7 @@ const whatsappLinks = document.querySelectorAll(".js-whatsapp-link");
 
 const WHATSAPP_NUMBER = "6283114869650";
 const WHATSAPP_MESSAGE =
-  "Halo, saya ingin demo ERM Offline. Jenis praktik saya: [isi]. Saya ingin dibantu pilih paket dan info cara pembelian.";
+  "Halo, saya ingin demo MedPraktik. Saya ingin dibantu pilih paket dan cara pembeliannya.";
 
 whatsappLinks.forEach((link) => {
   const message = link.dataset.whatsappMessage || WHATSAPP_MESSAGE;
@@ -17,9 +17,9 @@ whatsappLinks.forEach((link) => {
 
   link.setAttribute("href", whatsappUrl);
   if (!WHATSAPP_NUMBER) {
-    link.setAttribute("aria-label", "Minta demo ERM Offline. Nomor WhatsApp belum dipasang.");
+    link.setAttribute("aria-label", "Minta demo MedPraktik. Nomor WhatsApp belum dipasang.");
   } else {
-    link.setAttribute("aria-label", "Hubungi WhatsApp ERM Offline untuk demo, paket, pembayaran, dan instalasi.");
+    link.setAttribute("aria-label", "Hubungi WhatsApp MedPraktik untuk demo, paket, pembayaran, dan instalasi.");
   }
 });
 
@@ -52,7 +52,7 @@ galleryButtons.forEach((button) => {
     if (!src || !galleryImage) return;
 
     galleryImage.setAttribute("src", src);
-    galleryImage.setAttribute("alt", `Screenshot ${label} ERM Offline`);
+    galleryImage.setAttribute("alt", `Simulasi ${label} MedPraktik`);
 
     galleryButtons.forEach((item) => item.classList.remove("is-active"));
     button.classList.add("is-active");

@@ -1,13 +1,13 @@
-# Penawaran ERM Offline Pilot
+# Penawaran MedPraktik
 
-ERM Offline adalah aplikasi rekam medis elektronik offline untuk praktik mandiri berbasis Windows. Fokus awalnya adalah membantu praktik kecil berpindah dari buku atau Excel ke pencatatan digital yang rapi tanpa wajib memakai cloud.
+MedPraktik adalah aplikasi rekam medis elektronik offline untuk praktik mandiri berbasis Windows. Fokus awalnya adalah membantu praktik kecil berpindah dari buku atau Excel ke pencatatan digital yang rapi tanpa wajib memakai cloud.
 
 ## Cocok Untuk
 
 - Dokter praktik mandiri, bidan, dokter gigi, dan klinik kecil.
 - Praktik yang memakai laptop Windows.
-- Praktik yang butuh data pasien, kunjungan, SOAP, resep, surat klinis, laporan, PDF/cetak, dan backup.
-- Pengguna awal yang bersedia memberi feedback selama masa pilot.
+- Praktik yang butuh data pasien, kunjungan, SOAP, resep, surat klinis, laporan, cetak dokumen, dan backup.
+- Pengguna awal yang bersedia memberi feedback selama masa penggunaan awal.
 
 ## Paket Awal
 
@@ -35,7 +35,7 @@ ERM Offline adalah aplikasi rekam medis elektronik offline untuk praktik mandiri
 - Android companion.
 - SATUSEHAT live integration.
 - Sistem rumah sakit besar.
-- Antrean/kasir untuk semua pilot awal. Basic Plus hanya ditawarkan bila fitur dan skenario pengguna sudah cocok.
+- Antrean/kasir untuk semua pengguna awal. Basic Plus ditawarkan dengan pendampingan bila fitur dan skenario pengguna sudah cocok.
 
 ## Demo 15 Menit
 

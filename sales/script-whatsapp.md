@@ -1,8 +1,8 @@
-# Script WhatsApp ERM Offline
+# Script WhatsApp MedPraktik
 
 ## Balasan Lead Baru
 
-Halo Dok, terima kasih sudah menghubungi ERM Offline.
+Halo Dok, terima kasih sudah menghubungi MedPraktik.
 
 Supaya saya bisa arahkan demo yang paling relevan, boleh saya tahu:
 
@@ -16,9 +16,9 @@ Supaya saya bisa arahkan demo yang paling relevan, boleh saya tahu:
 
 Siap, Dok. Untuk tahap awal paket biasanya diarahkan dari kebutuhan praktiknya dulu:
 
-- Pilot/Basic: RME klinis inti di 1 laptop Windows.
+- Basic Laptop: RME klinis inti di 1 laptop Windows.
 - Assisted Setup: Basic + bantuan setup, template, simulasi data dummy, dan panduan backup.
-- Basic Plus: validasi terbatas jika butuh antrean/kasir.
+- Basic Plus: pendampingan terbatas jika butuh antrean/kasir sederhana.
 
 Sebelum saya rekomendasikan paket dan nominal final, boleh info jenis praktik, jumlah perangkat, dan apakah perlu antrean/kasir?
 
@@ -28,7 +28,7 @@ Ini link ringkas produknya, Dok:
 
 https://zerosx26.github.io/web-erm/
 
-ERM Offline fokus untuk praktik mandiri Windows, data lokal, bisa offline, mendukung PDF/cetak, backup, dan aktivasi lisensi perangkat.
+MedPraktik fokus untuk praktik mandiri Windows, data lokal, bisa offline, mendukung cetak dokumen klinis, backup, dan aktivasi lisensi perangkat.
 
 ## Setelah Demo
 
@@ -41,7 +41,7 @@ Ringkasnya, kebutuhan Dokter saat ini:
 - Paket yang cocok:
 - Catatan/kebutuhan khusus:
 
-Jika cocok lanjut pilot, langkah berikutnya adalah instalasi di laptop Windows, ambil device fingerprint, lalu aktivasi license key.
+Jika cocok lanjut paket awal, langkah berikutnya adalah instalasi di laptop Windows, ambil device fingerprint, lalu aktivasi license key.
 
 ## Jika Sudah Cocok Lanjut Pembayaran
 

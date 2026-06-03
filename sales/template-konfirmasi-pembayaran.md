@@ -2,7 +2,7 @@
 
 ## Kirim Instruksi Bayar
 
-Baik, Dok. Berikut ringkasan pembelian ERM Offline:
+Baik, Dok. Berikut ringkasan pembelian MedPraktik:
 
 - Paket:
 - Jumlah perangkat:

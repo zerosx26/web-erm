@@ -2,7 +2,7 @@
 
 ## Pesan Pengiriman
 
-Berikut installer ERM Offline, Dok:
+Berikut installer MedPraktik, Dok:
 
 - Paket:
 - Versi installer:

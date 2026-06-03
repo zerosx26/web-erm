@@ -1,13 +1,13 @@
 # WEB ERM
 
-Static landing page publik untuk produk **ERM Offline**.
+Static landing page publik untuk produk **MedPraktik**.
 
 ## Struktur
 
 - `index.html` - landing page utama.
 - `styles.css` - styling responsif clean medical SaaS.
 - `script.js` - interaksi kecil untuk menu mobile, smooth scroll, dan galeri screenshot.
-- `assets/screenshots/` - visual screenshot-style sementara. Ganti dengan screenshot asli aplikasi dari preview/build ERM Offline saat tersedia.
+- `assets/screenshots/` - visual screenshot-style sementara. Ganti dengan screenshot asli aplikasi MedPraktik saat tersedia.
 - `sales/` - materi marketing awal: penawaran, checklist demo, script WhatsApp, dan tracker lead CSV.
 
 ## Aktivasi WhatsApp CTA

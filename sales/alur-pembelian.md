@@ -1,4 +1,4 @@
-# Alur Pembelian ERM Offline
+# Alur Pembelian MedPraktik
 
 ## Prinsip
 
