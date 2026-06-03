@@ -3,6 +3,22 @@ const nav = document.querySelector("[data-nav]");
 const header = document.querySelector("[data-header]");
 const galleryButtons = document.querySelectorAll("[data-shot]");
 const galleryImage = document.querySelector("[data-gallery-shot]");
+const whatsappLinks = document.querySelectorAll(".js-whatsapp-link");
+
+const WHATSAPP_NUMBER = "";
+const WHATSAPP_MESSAGE =
+  "Halo, saya ingin demo ERM Offline untuk praktik. Jenis praktik saya: [isi dokter/bidan/dokter gigi/klinik]. Jumlah perangkat: [isi].";
+
+const whatsappUrl = WHATSAPP_NUMBER
+  ? `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`
+  : "#kontak";
+
+whatsappLinks.forEach((link) => {
+  link.setAttribute("href", whatsappUrl);
+  if (!WHATSAPP_NUMBER) {
+    link.setAttribute("aria-label", "Minta demo ERM Offline. Nomor WhatsApp belum dipasang.");
+  }
+});
 
 if (navToggle && nav) {
   navToggle.addEventListener("click", () => {

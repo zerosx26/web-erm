@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="ERM Offline">
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  <rect x="72" y="74" width="1056" height="482" rx="32" fill="#ffffff" stroke="#e2e8f0"/>
+  <rect x="108" y="110" width="88" height="88" rx="22" fill="#047857"/>
+  <path d="M134 136h42v13h-28v12h25v13h-25v13h30v13h-44v-64z" fill="#ffffff"/>
+  <text x="232" y="160" font-family="Inter, Arial" font-size="34" font-weight="900" fill="#047857">ERM Offline</text>
+  <text x="108" y="286" font-family="Inter, Arial" font-size="72" font-weight="900" fill="#0f172a">Rekam medis offline</text>
+  <text x="108" y="370" font-family="Inter, Arial" font-size="72" font-weight="900" fill="#0f172a">untuk praktik mandiri</text>
+  <text x="108" y="440" font-family="Inter, Arial" font-size="28" fill="#64748b">Data lokal, PDF/cetak, backup terenkripsi, dan lisensi perangkat.</text>
+  <rect x="108" y="482" width="172" height="50" rx="25" fill="#ecfdf5"/>
+  <text x="136" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#047857">Offline-first</text>
+  <rect x="300" y="482" width="136" height="50" rx="25" fill="#eff6ff"/>
+  <text x="328" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#2563eb">Windows</text>
+  <rect x="456" y="482" width="154" height="50" rx="25" fill="#ecfdf5"/>
+  <text x="484" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#047857">Basic Plus</text>
+</svg>
