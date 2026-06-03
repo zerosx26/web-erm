@@ -8,6 +8,24 @@ Static landing page publik untuk produk **ERM Offline**.
 - `styles.css` - styling responsif clean medical SaaS.
 - `script.js` - interaksi kecil untuk menu mobile, smooth scroll, dan galeri screenshot.
 - `assets/screenshots/` - visual screenshot-style sementara. Ganti dengan screenshot asli aplikasi dari preview/build ERM Offline saat tersedia.
+- `sales/` - materi marketing awal: penawaran, checklist demo, script WhatsApp, dan tracker lead CSV.
+
+## Aktivasi WhatsApp CTA
+
+Edit `script.js`, lalu isi:
+
+```js
+const WHATSAPP_NUMBER = "628xxxxxxxxxx";
+```
+
+Gunakan format internasional tanpa `+`, spasi, atau tanda baca.
+
+## Materi Sales
+
+- `sales/penawaran-erm-offline.md` untuk dikirim setelah calon pembeli tertarik.
+- `sales/demo-15-menit-checklist.md` untuk alur demo.
+- `sales/script-whatsapp.md` untuk chat awal dan follow-up.
+- `sales/lead-tracker.csv` untuk mencatat 10-20 calon pengguna pertama.
 
 ## Deploy GitHub Pages
 

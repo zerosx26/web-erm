@@ -6,11 +6,11 @@
   <text x="232" y="160" font-family="Inter, Arial" font-size="34" font-weight="900" fill="#047857">ERM Offline</text>
   <text x="108" y="286" font-family="Inter, Arial" font-size="72" font-weight="900" fill="#0f172a">Rekam medis offline</text>
   <text x="108" y="370" font-family="Inter, Arial" font-size="72" font-weight="900" fill="#0f172a">untuk praktik mandiri</text>
-  <text x="108" y="440" font-family="Inter, Arial" font-size="28" fill="#64748b">Data lokal, PDF/cetak, backup terenkripsi, dan lisensi perangkat.</text>
+  <text x="108" y="440" font-family="Inter, Arial" font-size="28" fill="#64748b">Pilot Windows offline, data lokal, PDF/cetak, backup, dan demo 15 menit.</text>
   <rect x="108" y="482" width="172" height="50" rx="25" fill="#ecfdf5"/>
   <text x="136" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#047857">Offline-first</text>
   <rect x="300" y="482" width="136" height="50" rx="25" fill="#eff6ff"/>
   <text x="328" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#2563eb">Windows</text>
   <rect x="456" y="482" width="154" height="50" rx="25" fill="#ecfdf5"/>
-  <text x="484" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#047857">Basic Plus</text>
+  <text x="484" y="515" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#047857">Pilot</text>
 </svg>
