@@ -58,7 +58,7 @@ img {
   display: grid;
   grid-template-columns: auto 1fr auto;
   align-items: center;
-  gap: 28px;
+  gap: 22px;
   padding: 14px clamp(20px, 5vw, 56px);
   background: rgba(248, 250, 252, 0.92);
   border-bottom: 1px solid rgba(226, 232, 240, 0.86);
@@ -91,9 +91,9 @@ img {
 .site-nav {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 16px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 700;
 }
 
@@ -782,7 +782,7 @@ h3 {
   }
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1120px) {
   .site-header {
     grid-template-columns: auto auto;
   }
