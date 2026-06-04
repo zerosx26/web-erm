@@ -25,6 +25,7 @@ Gunakan format internasional tanpa `+`, spasi, atau tanda baca.
 - `sales/penawaran-erm-offline.md` untuk dikirim setelah calon pembeli tertarik.
 - `sales/demo-15-menit-checklist.md` untuk alur demo.
 - `sales/script-whatsapp.md` untuk chat awal dan follow-up.
+- `sales/checklist-share-website.md` untuk pengecekan sebelum link dibagikan ke calon pembeli.
 - `sales/alur-pembelian.md` untuk SOP pembelian, pembayaran, delivery, dan aktivasi.
 - `sales/template-konfirmasi-pembayaran.md` untuk instruksi transfer/QRIS dan validasi pembayaran.
 - `sales/template-pengiriman-installer.md` untuk pengiriman installer privat, checksum, dan aktivasi.

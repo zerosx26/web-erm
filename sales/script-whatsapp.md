@@ -30,6 +30,10 @@ https://zerosx26.github.io/web-erm/
 
 MedPraktik fokus untuk praktik mandiri Windows, data lokal, bisa offline, mendukung cetak dokumen klinis, backup, dan aktivasi lisensi perangkat.
 
+## Copy Share Singkat
+
+Dok, ini info MedPraktik: RME offline untuk laptop dokter. Bisa dipakai tanpa internet, data lokal, cetak resep/surat, backup, dan dibantu aktivasi. Link: https://zerosx26.github.io/web-erm/
+
 ## Setelah Demo
 
 Terima kasih sudah ikut demo, Dok.

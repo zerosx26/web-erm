@@ -9,33 +9,51 @@ MedPraktik adalah aplikasi rekam medis elektronik offline untuk praktik mandiri 
 - Praktik yang butuh data pasien, kunjungan, SOAP, resep, surat klinis, laporan, cetak dokumen, dan backup.
 - Pengguna awal yang bersedia memberi feedback selama masa penggunaan awal.
 
-## Paket Awal
+## Paket
 
-**License Only: Rp750.000 - Rp1.000.000 per perangkat**
+**Early Access: mulai Rp750.000**
 
-- Aktivasi 1 laptop Windows.
-- Panduan install dan aktivasi.
-- Support ringan 7 hari via chat.
+- Slot pengguna awal yang bersedia memberi feedback.
+- RME inti di laptop Windows.
+- Demo dan arahan aktivasi.
+- Harga khusus slot awal, bukan harga normal permanen.
 
-**Assisted Setup: Rp1.000.000 - Rp1.500.000 per perangkat**
+**Basic Laptop: mulai Rp1.500.000**
 
-- Semua fitur License Only.
-- Bantuan setup nama praktik, template resep/surat, simulasi pasien dummy, dan backup pertama.
-- Support 14 hari via chat.
+- Untuk dokter praktik mandiri dengan satu laptop utama.
+- Pasien, kunjungan, SOAP.
+- Cetak resep dan surat klinis.
+- Statistik dasar, backup, dan aktivasi lisensi.
 
-**Assisted Setup Plus: Rp2.000.000 - Rp3.000.000 per perangkat**
+**Assisted Setup: dengan pendampingan**
 
-- Semua fitur Assisted Setup.
-- Onboarding lebih panjang, bantuan migrasi manual beberapa data awal jika disepakati, follow-up hari ke-3 dan ke-7.
-- Support 30 hari via chat.
+- Instalasi dan aktivasi lisensi.
+- Setup nama praktik dan template dokumen.
+- Simulasi pasien dummy dan panduan backup.
+
+**Basic Plus: antrean/kasir sederhana**
+
+- Semua fitur Basic Laptop.
+- Antrean, invoice, kwitansi, dan laporan pemasukan.
+- Template invoice dan pendampingan skenario operasional.
+
+**Pro Roadmap: fitur lanjutan**
+
+- Tablet dan jaringan lokal sebagai tahap lanjutan.
+- Cloud backup/sync belum diklaim siap.
+- SATUSEHAT belum diklaim terintegrasi.
 
 ## Yang Belum Dijanjikan
 
-- Cloud sync.
+- Cloud sync yang sudah siap live.
 - Android companion.
 - SATUSEHAT live integration.
 - Sistem rumah sakit besar.
 - Antrean/kasir untuk semua pengguna awal. Basic Plus ditawarkan dengan pendampingan bila fitur dan skenario pengguna sudah cocok.
+
+## Cara Pembayaran
+
+Pembayaran dilakukan manual via QRIS/transfer setelah paket disepakati lewat WhatsApp. Detail rekening/QRIS tidak dipasang publik agar tidak ada salah paket atau salah nominal.
 
 ## Demo 15 Menit
 
