@@ -52,7 +52,7 @@ galleryButtons.forEach((button) => {
     if (!src || !galleryImage) return;
 
     galleryImage.setAttribute("src", src);
-    galleryImage.setAttribute("alt", `Simulasi ${label} MedPraktik`);
+    galleryImage.setAttribute("alt", `Screenshot ${label} MedPraktik dengan data dummy`);
 
     galleryButtons.forEach((item) => item.classList.remove("is-active"));
     button.classList.add("is-active");
