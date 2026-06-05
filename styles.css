@@ -631,6 +631,21 @@ h3 {
   text-transform: uppercase;
 }
 
+.plan-price {
+  margin: 14px 0 4px;
+  color: var(--text);
+  font-size: clamp(1.45rem, 1.8vw, 2rem);
+  line-height: 1.05;
+  font-weight: 950;
+}
+
+.plan-meta {
+  margin: 0 0 14px;
+  color: var(--primary-dark);
+  font-size: 0.86rem;
+  font-weight: 850;
+}
+
 .plan ul {
   display: grid;
   gap: 8px;
