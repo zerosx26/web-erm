@@ -7,7 +7,7 @@ const whatsappLinks = document.querySelectorAll(".js-whatsapp-link");
 
 const WHATSAPP_NUMBER = "6283114869650";
 const WHATSAPP_MESSAGE =
-  "Halo, saya ingin demo 15 menit MedPraktik dengan data dummy. Saya ingin dibantu pilih paket tanpa checkout otomatis.";
+  "Halo, saya ingin melihat video demo singkat atau jadwal demo live 15 menit MedPraktik dengan data dummy. Saya ingin dibantu pilih paket.";
 
 whatsappLinks.forEach((link) => {
   const message = link.dataset.whatsappMessage || WHATSAPP_MESSAGE;
